@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "name": "xcode-asset-catalog-generator",
+  "version": "0.0.2",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "prod": "node index.js"
+  },
+  "dependencies": {
+    "xc-assetcat-gen": "^0.0.2"
+  }
+}
