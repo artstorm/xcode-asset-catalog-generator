@@ -1,0 +1,1 @@
+# xcode-asset-catalog-generator
