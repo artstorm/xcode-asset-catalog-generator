@@ -31,16 +31,15 @@ The [wiki](https://github.com/artstorm/xc-assetcat-gen/wiki
 
 ### Installation
 
-[Homebrew formula for node](https://formulae.brew.sh/formula/node) (node.js is required)
-
-Required 
-Clone or download this repository, then install the dependencies wit
-
-Install the dependencies. `npm install`
+1. Node.js is required for the tool to work which can easily be installed with [Homebrew](https://formulae.brew.sh/formula/node).
+2. Clone or download this repository.
+3. Install the dependencies. `npm install`.
+4. Configure your asset build. (see [wiki](https://github.com/artstorm/xc-assetcat-gen/wiki
+)).
 
 ### Generate
 
-The tool provides a dev mode to try the generation to an `output` folder in the tools installation folder.
+Once the tool is installed and configured, assets can be generated from the command line. The tool provides a dev mode to try the generation to an `output` folder in the tools installation folder.
 
 ```
 # Builds the assets to a target folder for dev purposes.
