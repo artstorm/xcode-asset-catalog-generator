@@ -3,7 +3,7 @@
 ![Swift Gamedev](https://img.shields.io/badge/swift-gamedev-brightgreen.svg?style=flat)
 [![Twitter: @artstorm](https://img.shields.io/badge/twitter-@artstorm-blue.svg?style=flat)](https://twitter.com/artstorm)
 
-Xcode asset catalog generator for game development. The tool builds the Xcode asset catalog from source assets and generates images with optimized sizes for iPad, iPhone, AppleTV and Mac.
+Xcode asset catalog generator for game development. It's a batch processing command line tool that builds the Xcode asset catalog from source assets and generates images with optimized sizes for iPad, iPhone, AppleTV and Mac.
 
 ## Features
 
