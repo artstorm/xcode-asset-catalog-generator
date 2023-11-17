@@ -8,6 +8,6 @@
     "prod": "node index.js"
   },
   "dependencies": {
-    "xc-assetcat-gen": "^0.0.2"
+    "xc-assetcat-gen": "^0.0.3"
   }
 }
